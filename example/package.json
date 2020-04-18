@@ -5,6 +5,7 @@
   "private": true,
   "dependencies": {
     "address_autofill": "file:..",
+    "gh-pages": "^2.2.0",
     "node-sass": "^4.13.1",
     "react": "file:../node_modules/react",
     "react-dom": "file:../node_modules/react-dom",
@@ -14,7 +15,8 @@
     "start": "node ../node_modules/react-scripts/bin/react-scripts.js start",
     "build": "node ../node_modules/react-scripts/bin/react-scripts.js build",
     "test": "node ../node_modules/react-scripts/bin/react-scripts.js test",
-    "eject": "node ../node_modules/react-scripts/bin/react-scripts.js eject"
+    "eject": "node ../node_modules/react-scripts/bin/react-scripts.js eject",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
