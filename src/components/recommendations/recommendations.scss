@@ -1,0 +1,18 @@
+.addressSectionTitle {
+    font-weight: bold;
+    margin-top: 10px;
+}
+.addressSection {
+    max-height: 200px;
+    margin-top: 10px;
+    border-radius: 8px;
+    border: 2px solid grey;
+    overflow-y: scroll;
+    .addressLine {
+        padding: 4px 0;
+        border: 1px solid darkgray;
+        &:hover {
+            background-color: lightblue;
+        }
+    }
+}
