@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/address_autofill/static/css/main.f66334bd.chunk.css",
+    "main.js": "/address_autofill/static/js/main.a713ea85.chunk.js",
+    "main.js.map": "/address_autofill/static/js/main.a713ea85.chunk.js.map",
+    "runtime-main.js": "/address_autofill/static/js/runtime-main.66703af5.js",
+    "runtime-main.js.map": "/address_autofill/static/js/runtime-main.66703af5.js.map",
+    "static/js/2.2037317f.chunk.js": "/address_autofill/static/js/2.2037317f.chunk.js",
+    "static/js/2.2037317f.chunk.js.map": "/address_autofill/static/js/2.2037317f.chunk.js.map",
+    "index.html": "/address_autofill/index.html",
+    "precache-manifest.d520b2d9668a194737170cda52230f3c.js": "/address_autofill/precache-manifest.d520b2d9668a194737170cda52230f3c.js",
+    "service-worker.js": "/address_autofill/service-worker.js",
+    "static/css/main.f66334bd.chunk.css.map": "/address_autofill/static/css/main.f66334bd.chunk.css.map",
+    "static/js/2.2037317f.chunk.js.LICENSE.txt": "/address_autofill/static/js/2.2037317f.chunk.js.LICENSE.txt",
+    "static/js/main.a713ea85.chunk.js.LICENSE.txt": "/address_autofill/static/js/main.a713ea85.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66703af5.js",
+    "static/js/2.2037317f.chunk.js",
+    "static/css/main.f66334bd.chunk.css",
+    "static/js/main.a713ea85.chunk.js"
+  ]
+}
