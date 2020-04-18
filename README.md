@@ -20,6 +20,8 @@ npm install --save address_autofill
 `AddressAutofillForm` is an address form that will automatically popout suggestions of addresses as user enters.
 `AddressAutofillFormSimple` is just a simple input field that will also popout suggestions of address, however users can click on the suggestions to autocomplete their addresses.
 
+Example: https://1bii.github.io/address_autofill/
+
 ```jsx
 import React from 'react'
 import { AddressAutofillForm, AddressAutofillFormSimple } from 'address_autofill'
