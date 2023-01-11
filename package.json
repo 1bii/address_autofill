@@ -54,7 +54,7 @@
     "apple-mapkit-js": "^6.1.0",
     "classnames": "^2.2.6",
     "fs": "0.0.1-security",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "node-sass": "^4.13.1"
   }
 }
